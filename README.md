@@ -6,6 +6,9 @@ A Python-based Prometheus exporter for monitoring Netgear modem metrics. This ex
 
 This project was inspired by @ickymettle's netgear_cm_exporter (https://github.com/ickymettle/netgear_cm_exporter)
 
+## Officially Supported Modems
+ * Netgear CM1200
+
 In theory, this should work with most Netgear cable modems but was built and tested with the Netgear CM1200. If you are using or have access to another Netgear cable modem, open a PR or reach out via Discord (@tylxr59).
 
 ## Features
