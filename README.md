@@ -1,3 +1,5 @@
+![Screenshot of Grafana Dashboard](https://raw.githubusercontent.com/tylxr59/Netgear-Modem-Prometheus-Exporter/refs/heads/main/grafana-dashboard.png)
+
 # Netgear Modem Prometheus Exporter
 
 A Python-based Prometheus exporter for monitoring Netgear modem metrics. This exporter scrapes data from the modem's web interface and exposes it as Prometheus metrics. Includes a premade Grafana dashboard
